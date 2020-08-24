@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DOPENSSL_ROOT_DIR=/usr/local/include -DOPENSSL_LIBRARIES=/usr/lib -G "CodeBlocks - Unix Makefiles" /Users/lipingkuan/Desktop/011Test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/lipingkuan/Desktop/011Test/cmake-build-debug
